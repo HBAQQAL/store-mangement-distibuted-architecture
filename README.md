@@ -35,8 +35,3 @@ Implements service discovery, allowing dynamic service registration and discover
 - Spring Cloud
 - Netflix Eureka (for service discovery)
 - Spring Cloud Gateway
-- [Any other relevant technologies]
-
-## Setup and Installation
-
-1. Clone the repository:
