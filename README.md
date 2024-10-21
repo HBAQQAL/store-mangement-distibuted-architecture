@@ -1,0 +1,1 @@
+# store-mangement-distibuted-architecture
